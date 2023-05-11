@@ -32,7 +32,7 @@ Pull the BAQT stateless API docker image from docker hub.
 
 Use the below commande to run the docker image.
 
-`docker compose up -d`
+`docker run -d -p 80:8848 <imageid>`
 
 ### Check Service Status
 
